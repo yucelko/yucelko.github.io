@@ -1,2 +1,0 @@
-# yucelko.github.io
-Website
