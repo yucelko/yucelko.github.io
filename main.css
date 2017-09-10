@@ -1,0 +1,62 @@
+.date{
+    font-style: italic;
+    font-family: Helvetica;
+    font-weight: bold;
+
+}
+#p1{
+    text-align: center;
+    text-blink: true;
+
+    font-weight: 600;
+    font-family: "Helvetica Neue";
+
+}
+#dropdownMenu1{
+
+    text-align: center;
+
+    display: inline-block;
+
+}
+#results{
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 115px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btns{
+    height:40px;
+    width:67px;
+}
+.button {
+    padding: 9px 12px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: aqua;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+
+}
+
+.button:hover {background-color: blue}
+
+.button:active {
+    background-color: black;
+
+    transform: translateX(3px) translateY(3px);
+
+}
+
+.hid{
+    display:none;
+}
